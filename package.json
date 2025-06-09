@@ -1,5 +1,5 @@
 {
-  "name": "crowsfiddled-company",
+  "name": "crowsfiddled",
   "version": "1.0.0",
   "scripts": {
     "dev": "vite",
